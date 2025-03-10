@@ -1,0 +1,2 @@
+class Clave:
+    OPENAI_API_KEY = 'TU_CLAVE_OPENAI'    
